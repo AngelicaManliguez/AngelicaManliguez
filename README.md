@@ -12,8 +12,13 @@
 <a href="https://courses.cognitiveclass.ai/certificates/3d81a5883f634bce8188316b8a3a4554"><img align="right" width="500" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/SQL%20and%20Relational%20Database%20101.png" /></a>
 </p>
 
+<h3 align="left"> Contact me: </h3>
+<p align="left"> ✉ angelicamanliguez12@gmail.com
+<p align="left"> 📞 0928-397-5902
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/manliguez-angelica-mae-a-121830259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manliguez-angelica-mae-a-121830259" height="30" width="40" /></a>
 <a href="https://fb.com/angelica.manliguez.779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="angelica.manliguez.779" height="30" width="40" /></a>
 <a href="https://instagram.com/anelignaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anelignaa" height="30" width="40" /></a>
 </p>
@@ -22,8 +27,9 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <h3> My GitHub Status </h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelicamanliguez&" alt="angelicamanliguez" />
+<img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=angelicamanliguez&" alt="angelicamanliguez" />
 
+<img align="center" width="450" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Angelica%20Mae.png">
 <p align="center"> This is my Website Profile to know me more! 
 https://sites.google.com/view/manliguez/resume
 </p>
