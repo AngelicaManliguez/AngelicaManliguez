@@ -10,7 +10,7 @@
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E4689896A71AEF89B67805497A971A8DB396549B2B19DF752855BF0E9DE05FE0&fbclid=IwAR0AL1BjqSPCP-4W5lumm3ISk3MY7vYo-_0gXgS4fqQCWWG22poSIGFOT0k"><img align="right" width="500" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/OCDM%20CERTIFICATE.png"/></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=EA3F0B4FCF6239DF853A9BE2968EE337707D24543C75B1032B016F804ECC3982"><img align="right" width="500" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/OCI%20Certificate.png"/>
 <a href="https://courses.cognitiveclass.ai/certificates/3d81a5883f634bce8188316b8a3a4554"><img align="right" width="500" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/SQL%20and%20Relational%20Database%20101.png" /></a>
-</p>
+</p></br>
 
 <h3 align="left"> Contact me: </h3>
 <p align="left"> ✉ angelicamanliguez12@gmail.com
@@ -30,7 +30,7 @@
 <img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=angelicamanliguez&" alt="angelicamanliguez" />
 
 <img align="center" width="300" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Angelica%20Mae.png">
-<p align="left"> This is my Website Profile to know me more! 
+<p align="center"> This is my Website Profile to know me more! 
 https://sites.google.com/view/manliguez/resume
 </p>
 
