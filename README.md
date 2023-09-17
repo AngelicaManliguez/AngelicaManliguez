@@ -6,8 +6,8 @@
 
 <h3 align="center">My Certificates</h3> 
 <p>
-<img width="419" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Business%20Analytics%20with%20Excel.png" />
-<img height="282" width="419" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/OCDM%20CERTIFICATE.png" />
+<img width="420" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Business%20Analytics%20with%20Excel.png" />
+<img height="282" width="420" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/OCDM%20CERTIFICATE.png" />
 <p align="center"> <a href="https://www.simplilearn.com/skillup-certificate-landing? 
 token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4ODI2XzE2OTQwODQwODYucG5nIiwidXNlcm5hbWUiOiJBbmdlbGljYSBNYWUgQS4gTWFubGlndWV6In0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2738%2FBusiness%2520Analytics%2520with%2520Excel%2Fcertificate%2Fdownload-skillup&fbclid=IwAR2SYPBL4S1EBs73YWZIYyWfl1Qn5m5wGUEFBPdE_Hr9pDlRlPGqOkU0NeI&%24web_only=true&_branch_match_id=1057593067407952984&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVt0gLNQ1O9%2FIMcU6yT0tKzslMsfUsdwwyCo4McPIxCTZ0dSo2N44Mj%2FKMrAxPyzEMzDPNNS13D3V1cwpIcY33KLIscMkJyglwL%2FTPDjXwS%2FUEAOHEa5NqAAAA">Business Analytics with Excel   </a><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E4689896A71AEF89B67805497A971A8DB396549B2B19DF752855BF0E9DE05FE0&fbclid=IwAR0AL1BjqSPCP-4W5lumm3ISk3MY7vYo-_0gXgS4fqQCWWG22poSIGFOT0k"> Oracle Cloud Data Management 2022 Foundations Associate </a> </p>
 
