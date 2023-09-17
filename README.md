@@ -27,10 +27,10 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <h3> My GitHub Status </h3>
-<img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=angelicamanliguez&" alt="angelicamanliguez" />
+<img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=angelicamanliguez&" alt="angelicamanliguez" />
 
-<img align="center" width="450" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Angelica%20Mae.png">
-<p align="center"> This is my Website Profile to know me more! 
+<img align="center" width="300" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Angelica%20Mae.png">
+<p align="left"> This is my Website Profile to know me more! 
 https://sites.google.com/view/manliguez/resume
 </p>
 
