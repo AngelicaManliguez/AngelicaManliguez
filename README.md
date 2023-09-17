@@ -4,7 +4,7 @@
 <p align="center"> I'm currently studying Computer Science in New Era University</p>
 <p align="center"> and currently learning Software Engineering </p>
 
-<img src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Angelica%20Mae.png" align="right" width="800" />
+<img src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Angelica%20Mae.png" align="right" width="500" />
 
 <p align="left"> This is my Website Profile to know me more! </p>
 https://sites.google.com/view/manliguez/resume
