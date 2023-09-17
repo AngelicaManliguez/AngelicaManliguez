@@ -1,7 +1,7 @@
 <header> 
   <img src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Banner.png"/>
 </header>
-<h2 align="center">Angelica Mae A. Manliguez | Student of CICS | 3rd Year College</h2>
+<h2 align="center">Angelica Mae A. Manliguez | BSCS | 3rd Year Student</h2>
 
 <p align="center"> I'm currently studying Computer Science in New Era University</p>
 <p align="center"> and currently learning Software Engineering </p></br>
