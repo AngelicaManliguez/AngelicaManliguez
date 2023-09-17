@@ -1,4 +1,6 @@
-<html>
+<header> 
+  <img src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Banner.png"/>
+</header>
 <h1 align="center">Welcome to my GitHub Profile!</h1>
 <h3 align="center">Angelica Mae A. Manliguez | Student of CICS | 3rd Year College</h3>
 
@@ -34,5 +36,4 @@
 https://sites.google.com/view/manliguez/resume
 </p>
 
-</html>
 
