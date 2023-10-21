@@ -3,7 +3,7 @@
 </header>
 <h2 align="center">Angelica Mae A. Manliguez | BSCS | 3rd Year Student</h2>
 
-<p align="center"> I'm currently studying Computer Science in New Era University and currently taking Software Engineering 1 </p></br>
+<p align="center"> I'm currently studying Computer Science in New Era University and taking Software Engineering 1 </p></br>
 
 <p>
   <a href="https://simpli-web.app.link/e/8fU5SgJITCb"><img align="right" width="500" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Business%20Analytics%20with%20Excel.png"/></a>
