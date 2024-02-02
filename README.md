@@ -1,12 +1,9 @@
 <header> 
-  <img src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/5fc3d135-b438-4bc8-bd81-9d6aad2ff50d"/>
+  <img src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/902fe9a3-ae6b-410b-b130-310b08f86c8f"/>
 </header>
 <h2 align="center">Angelica Mae A. Manliguez | BSCS | 3rd Year Student</h2>
 
 <p align="center"> I'm currently studying Computer Science in New Era University and taking Software Engineering 1 </p></br>
-
-
-
 
 
 <p>
