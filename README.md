@@ -1,9 +1,10 @@
 <header> 
-  <img src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Banner.png"/>
+  <img src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/3d520faa-e462-4059-a5b4-451783227cbc"/>
 </header>
 <h2 align="center">Angelica Mae A. Manliguez | BSCS | 3rd Year Student</h2>
 
 <p align="center"> I'm currently studying Computer Science in New Era University and taking Software Engineering 1 </p></br>
+
 
 
 
