@@ -1,9 +1,9 @@
 <header> 
   <img src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/902fe9a3-ae6b-410b-b130-310b08f86c8f"/>
 </header>
-<h2 align="center">Angelica Mae A. Manliguez | BSCS | 3rd Year Student</h2>
+<h2 align="center">BS Computer Science | New Era University | 3rd Year</h2>
 
-<p align="center"> I'm currently studying Computer Science in New Era University and taking Software Engineering 1 </p></br>
+<p align="center">Feel free to explore my profile!</p></br>
 
 
 <p>
@@ -26,9 +26,15 @@
   <a href="https://instagram.com/anelignaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anelignaa" height="30" width="40" /></a>
   </p>
 
-<h3 align="left">Languages:</h3>
-  <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>   </p>
-
+<h3 align="left">Languages and Tools:</h3>
+  <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  </p>
+  
 <h3> My GitHub Status </h3>
   <img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=angelicamanliguez&" alt="angelicamanliguez" />
 
