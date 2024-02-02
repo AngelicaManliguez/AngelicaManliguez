@@ -6,7 +6,9 @@
 <p align="center"> I'm currently studying Computer Science in New Era University and taking Software Engineering 1 </p></br>
 
 
+
 <p>
+  <img align="right" width="500" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/f9fb7096-5e66-4c0d-9158-9f29d6c44734"/>
   <img align="right" width="500" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/e670e34a-2ca1-4501-ac55-298525b67723"/>
   <a href="https://simpli-web.app.link/e/8fU5SgJITCb"><img align="right" width="500" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Business%20Analytics%20with%20Excel.png"/></a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E4689896A71AEF89B67805497A971A8DB396549B2B19DF752855BF0E9DE05FE0&fbclid=IwAR0AL1BjqSPCP-4W5lumm3ISk3MY7vYo-_0gXgS4fqQCWWG22poSIGFOT0k"><img       align="right" width="500" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/OCDM%20CERTIFICATE.png"/></a>
