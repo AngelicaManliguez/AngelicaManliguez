@@ -1,10 +1,9 @@
 <header> 
-  <img src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/902fe9a3-ae6b-410b-b130-310b08f86c8f"/>
+  <img src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/a6a1e5ca-b6ff-49b8-978f-17bb0276efb6"/>
 </header>
 <h2 align="center">BS Computer Science | New Era University | 3rd Year</h2>
 
 <p align="center">Feel free to explore my profile!</p></br>
-
 
 <p>
   <img align="right" width="500" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/f9fb7096-5e66-4c0d-9158-9f29d6c44734"/>
