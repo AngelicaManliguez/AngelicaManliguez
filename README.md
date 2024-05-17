@@ -37,7 +37,8 @@
 <h3> My GitHub Status </h3>
   <img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=angelicamanliguez&" alt="angelicamanliguez" />
 
-<img align="center" width="300" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Angelica%20Mae.png">
+![Angelica Mae]()<img align="center" width="300" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/cf53474b-985c-4049-8882-c75f2078215e">
   <p align="center"> This is my Website Profile to know me more! https://sites.google.com/view/manliguez/resume </p>
+
 
 
