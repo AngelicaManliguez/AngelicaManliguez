@@ -61,7 +61,13 @@ Present<br/>
     <img width="500" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/38370556-8ff7-4b38-8de0-5de9016a6a14"/>
 </a>
 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzQ3NTFiZmQtMGFkZi00ZTg5LTk5NGUtMmFjMWJlNDdmZTcwIiwidCI6IjcwNzhhYmM0LTY3NjAtNDQ5YS04YzM1LTBlYjdiZTg0ODA1ZiIsImMiOjEwfQ%3D%3D">
+    <img width="500" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/0f7b122f-bad0-4801-a474-1c4bff9cdee6"/>
+</a>
+
 Click the picture to view the report in Power BI :)
+
+<br/>
 
 <h3>My 5 Best Software Engineering Design Pattern</h3>
 
@@ -82,8 +88,42 @@ Click the picture to view the report in Power BI :)
 
 </div>
 
+<br/>
+
 # Languages and Tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<b>Data Visualizations:</b><br/>
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img width="75" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/2b0d8530-9a10-417e-ba96-11b942503710"/>
+<br/>
+
+<b>Programming Languages:</b><br/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+<br/>
+
+<b>DBMS:</b><br/>
+<img width="90" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/dbd82db5-3dd2-4b80-a499-19fafc4bb768"/>
+<br/>
+
+<b>Frameworks:</b><br/>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+<br/>
+
+<b>Databases:</b><br/>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<br/>
+
+<b>Networking:</b><br/>
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+<br/>
+
+<b>Dev Tools:</b><br/>
+<img width="30" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
+<img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+<img width="30" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/>
+<img width="30" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/27a52fe7-8ea8-46aa-b8a1-5108786121ae"/>
+<img width="30" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/2f20dbe9-3cd8-4ed1-b591-5d04fb50d78e"/>
 
 <br/>
 
