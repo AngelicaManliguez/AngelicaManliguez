@@ -65,6 +65,21 @@ Click the picture to view the report in Power BI :)
 
 <h3>My 5 Best Software Engineering Design Pattern</h3>
 
+<a text-decoration="none" href="https://github.com/AngelicaManliguez/facadePattern">Facade Pattern</a><br/>
+<img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/86c2b841-434d-41dc-ab48-073e5b1f35c1"/>
+
+<a href="https://github.com/AngelicaManliguez/visitorPattern">Visitor Pattern</a><br/>
+<img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/f55976ad-982e-46c8-9b45-e1c8012c0202"/>
+
+<a href="https://github.com/AngelicaManliguez/strategyPattern">Strategy Pattern</a><br/>
+<img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/0817f255-52f0-4a6d-8319-a9db0b486828"/>
+
+<a href="https://github.com/AngelicaManliguez/builderPattern">Builder Pattern</a><br/>
+<img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/96c0280e-5b28-429b-8c29-0cf5c00ba6e2"/>
+
+<a href="https://github.com/AngelicaManliguez/decoratorPattern">Decorator Pattern</a><br/>
+<img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/d7aabd07-7f08-472f-8c81-8e15af59dfd7"/>
+
 </div>
 
 # Languages and Tools
