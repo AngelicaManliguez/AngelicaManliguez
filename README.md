@@ -3,7 +3,7 @@
 </header>
 <h2 align="center">4th Year Student</h2>
 
-# Education
+# 📚 Education
 <b>Bachelor of Science in Computer Science</b> <br/>
 Present<br/>
 🏅 3 years consistent President's Lister <br/>
@@ -19,7 +19,7 @@ Present<br/>
 
 <div align="center">
   
-# Certifications
+# 🎖 Certifications
   <a href="https://www.credly.com/badges/6d0f2326-1773-4e6d-bf0c-dd2de6ab593c/public_url">
     <img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/f9fb7096-5e66-4c0d-9158-9f29d6c44734"/>
   </a>
@@ -50,7 +50,7 @@ Present<br/>
 
 <div align="center">
   
-# Tech Achievement
+# 🖥️ Tech Achievement
 <h3>Power BI Projects</h3>
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNzc5YjMxNzAtMTJiNy00MzUzLWI0ZDMtMmU0MTQ5MjVhMjcyIiwidCI6IjcwNzhhYmM0LTY3NjAtNDQ5YS04YzM1LTBlYjdiZTg0ODA1ZiIsImMiOjEwfQ%3D%3D">
@@ -90,7 +90,7 @@ Click the picture to view the report in Power BI :)
 
 <br/>
 
-# Languages and Tools
+# 🔨 Languages and Tools
 
 <b>Data Visualizations:</b><br/>
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
