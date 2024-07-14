@@ -106,7 +106,7 @@ Click the picture to view the report in Power BI :)
 <br/>
 
 <b>Frameworks:</b><br/>
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br/>
 
 <b>Databases:</b><br/>
@@ -125,6 +125,8 @@ Click the picture to view the report in Power BI :)
 <img width="30" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/27a52fe7-8ea8-46aa-b8a1-5108786121ae"/>
 <img width="30" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/2f20dbe9-3cd8-4ed1-b591-5d04fb50d78e"/>
 
+<b>Other Tools:</b><br/>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 <br/>
 
 # 📊 GitHub Stats:
