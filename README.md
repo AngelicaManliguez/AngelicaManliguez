@@ -1,7 +1,7 @@
 <header> 
   <img src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/a6a1e5ca-b6ff-49b8-978f-17bb0276efb6"/>
 </header>
-<h2 align="center">4th Year Student</h2>
+<h2 align="center"><i>“Building intuitive and responsive web experiences with modern tech stacks.”</i></h2>
 
 # 📚 Education
 <b>Bachelor of Science in Computer Science</b> <br/>
