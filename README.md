@@ -1,6 +1,7 @@
 <header> 
-  <img src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/a6a1e5ca-b6ff-49b8-978f-17bb0276efb6"/>
+  <img src="https://github.com/user-attachments/assets/fa0ca75b-fd00-42a3-9588-d7d01f62b95d"/>
 </header>
+
 <h4 align="center"><i>“Build with purpose. Debug with patience. Learn without limits.”</i></h4>
 
 # 📚 Education
