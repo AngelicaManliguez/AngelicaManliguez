@@ -173,6 +173,6 @@ Click the picture to view the report in Power BI :)
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=AngelicaManliguez&style=plastic&color=yellow&label=👁️)
+  ![](https://komarev.com/ghpvc/?username=AngelicaManliguez&style=flat&color=yellow&label=++👁️)
 </div>
 
