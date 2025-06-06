@@ -6,15 +6,12 @@
 
 # 📚 Education
 <b>Bachelor of Science in Computer Science</b> <br/>
-Present<br/>
-🏅 3 years consistent President's Lister <br/>
-🏅 Tagis Lakas 2024 Womens Badminton Champion <br/>
-🏅 NSTP Academic Awardee <br/>
-<b><i>New Era University</i></b><br/>
+<b><i>New Era University (2021 - 2025)</i></b><br/>
+<b>GWA 1.30</b><br/>
 
-<b>Senior Highschool: Humanities and Social Sciences </b><br/>
-2019-2021<br/>
-<b><i>Dr. Carlos S. Lanting College</i></b><br/>
+🏅 President's Lister Awardee for 4 Consecutive Years  <br/>
+🏅 Tagis Lakas 2024 Womens Badminton Champion <br/>
+🏅 Tagis Lakas 2025 Mixed Doubles Badminton Champions <br/>
 
 <br/>
 
@@ -22,28 +19,55 @@ Present<br/>
   
 # 🎖 Certifications
   <a href="https://www.credly.com/badges/6d0f2326-1773-4e6d-bf0c-dd2de6ab593c/public_url">
-    <img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/f9fb7096-5e66-4c0d-9158-9f29d6c44734"/>
+    <img height="300" width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/f9fb7096-5e66-4c0d-9158-9f29d6c44734"/>
   </a>
   <a href="https://www.credly.com/badges/14f05409-16f3-41c1-9c8f-31d117b97cb7/public_url">
-    <img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/19ebd002-e29d-46c9-99b4-d8b45b6b3511"/>
+    <img height="300" width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/19ebd002-e29d-46c9-99b4-d8b45b6b3511"/>
   </a>
   <a href="https://www.credly.com/badges/9777b92b-f44d-4037-991f-e21a849f25ba/public_url">
-    <img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/6b15cf94-08e1-4b13-9f38-920bf0c4e6ea"/>
+    <img height="300" width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/6b15cf94-08e1-4b13-9f38-920bf0c4e6ea"/>
   </a>
   <a href="https://courses.cognitiveclass.ai/certificates/3d81a5883f634bce8188316b8a3a4554">
-    <img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/SQL%20and%20Relational%20Database%20101.png"/>
+    <img height="300" width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/SQL%20and%20Relational%20Database%20101.png"/>
   </a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E4689896A71AEF89B67805497A971A8DB396549B2B19DF752855BF0E9DE05FE0&fbclid=IwAR0AL1BjqSPCP-4W5lumm3ISk3MY7vYo-_0gXgS4fqQCWWG22poSIGFOT0k">
-    <img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/OCDM%20CERTIFICATE.png"/>
+    <img height="300" width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/OCDM%20CERTIFICATE.png"/>
   </a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=EA3F0B4FCF6239DF853A9BE2968EE337707D24543C75B1032B016F804ECC3982">
-    <img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/OCI%20Certificate.png"/>
+    <img height="300" width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/OCI%20Certificate.png"/>
   </a>
   <a href="https://simpli-web.app.link/e/8fU5SgJITCb">
-    <img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Business%20Analytics%20with%20Excel.png"/>
+    <img height="300" width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/blob/main/Business%20Analytics%20with%20Excel.png"/>
   </a>
   <a href="https://www.kaggle.com/learn/certification/angelicamaemanliguez/intro-to-programming">
-    <img width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/e670e34a-2ca1-4501-ac55-298525b67723"/>
+    <img height="300" width="400" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/e670e34a-2ca1-4501-ac55-298525b67723"/>
+  </a>
+  <a href="https://www.kaggle.com/learn/certification/angelicamaemanliguez/intro-to-programming">
+    <img height="300" width="400" src="https://github.com/user-attachments/assets/93d24ed2-3e42-4780-8261-0cfa56a30c68"/>
+  </a>
+  <a href="https://www.kaggle.com/learn/certification/angelicamaemanliguez/intro-to-programming">
+    <img height="300" width="400" src="https://github.com/user-attachments/assets/07b35cc3-3e08-4bc3-bbd8-39e79dbd34f9"/>
+  </a>
+  <a href="https://www.kaggle.com/learn/certification/angelicamaemanliguez/intro-to-programming">
+    <img height="300" width="400" src="https://github.com/user-attachments/assets/2ecafa84-bff3-4a61-bfda-596c106a7506"/>
+  </a>
+  <a href="https://www.kaggle.com/learn/certification/angelicamaemanliguez/intro-to-programming">
+    <img height="300" width="400" src="https://github.com/user-attachments/assets/adf0e43a-1fb2-417f-8098-956485b236fd"/>
+  </a>
+  <a href="https://www.kaggle.com/learn/certification/angelicamaemanliguez/intro-to-programming">
+    <img height="300" width="400" src="https://github.com/user-attachments/assets/2dc29a90-799a-4cc5-b24a-d576a945ae61"/>
+  </a>
+  <a href="https://www.kaggle.com/learn/certification/angelicamaemanliguez/intro-to-programming">
+    <img height="300" width="400" src="https://github.com/user-attachments/assets/1e066cc1-84b1-4a55-b176-efd254804fb7"/>
+  </a>
+  <a href="https://www.kaggle.com/learn/certification/angelicamaemanliguez/intro-to-programming">
+    <img height="300" width="400" src="https://github.com/user-attachments/assets/7c88765a-7895-4a89-a1fb-d78f40b57bfd"/>
+  </a>
+  <a href="https://www.kaggle.com/learn/certification/angelicamaemanliguez/intro-to-programming">
+    <img height="300" width="400" src="https://github.com/user-attachments/assets/aba53e97-4821-4a10-ba93-91e318c7c784"/>
+  </a>
+  <a href="https://www.kaggle.com/learn/certification/angelicamaemanliguez/intro-to-programming">
+    <img height="300" width="400" src="https://github.com/user-attachments/assets/e494e529-b1f9-46d4-be5b-6773e7a2a649"/>
   </a>
 </div>
 
@@ -128,6 +152,17 @@ Click the picture to view the report in Power BI :)
 
 <b>Other Tools:</b><br/>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+
+<br/>
+
+# 🖇️ Curriculum Vitae
+<div align="center">
+  <a href="https://bit.ly/CurriculumVitae-AngelicaManliguez"><img height="600" src="https://github.com/user-attachments/assets/b201bcf4-1916-4cbe-a354-2c8eba6aceb5"/></a>
+  <p align="center"> Click to view my Digital CV!</p>
+
+  [![](https://visitcount.itsvg.in/api?id=AngelicaManliguez&icon=5&color=12)](https://visitcount.itsvg.in)
+</div>
+
 <br/>
 
 # 📊 GitHub Stats:
@@ -135,10 +170,10 @@ Click the picture to view the report in Power BI :)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AngelicaManliguez&theme=date_night&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaManliguez&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-<a href="https://sites.google.com/view/manliguez/resume"><img width="300" src="https://github.com/AngelicaManliguez/AngelicaManliguez/assets/142959759/cf53474b-985c-4049-8882-c75f2078215e"></a>
-<p align="center"> This is my Website Profile to know me more!</p>
+<br/>
 
-[![](https://visitcount.itsvg.in/api?id=AngelicaManliguez&icon=5&color=12)](https://visitcount.itsvg.in)
-  
+<div align="center">
+
+  [![](https://visitcount.itsvg.in/api?id=AngelicaManliguez&icon=5&color=12)](https://visitcount.itsvg.in)
 </div>
+
