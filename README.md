@@ -163,7 +163,6 @@ Click the picture to view the report in Power BI :)
   [![](https://visitcount.itsvg.in/api?id=AngelicaManliguez&icon=5&color=12)](https://visitcount.itsvg.in)
 </div>
 
-<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AngelicaManliguez&theme=date_night&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -174,6 +173,6 @@ Click the picture to view the report in Power BI :)
 
 <div align="center">
 
-  [![](https://visitcount.itsvg.in/api?id=AngelicaManliguez&icon=5&color=12)](https://visitcount.itsvg.in)
+  ![](https://komarev.com/ghpvc/?username=AngelicaManliguez&style=plastic&color=yellow&label=👁️)
 </div>
 
